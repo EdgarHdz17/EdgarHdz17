@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hi, I'm Edgar! I am an engineering student at UNAM who is growing in the development of mobile applications.
-![me](https://user-images.githubusercontent.com/47467891/111854970-cb9fc300-88e7-11eb-8001-b106b970c7f8.png)
+![me](https://user-images.githubusercontent.com/47467891/111855130-a3649400-88e8-11eb-9f3f-bc817b29e02a.png)
 
 
 <!--
