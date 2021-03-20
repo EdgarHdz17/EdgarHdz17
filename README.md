@@ -1,4 +1,7 @@
 ### Hi there 👋
+Hi, I'm Edgar! I am an engineering student at UNAM who is growing in the development of mobile applications.
+![me](https://user-images.githubusercontent.com/47467891/111854970-cb9fc300-88e7-11eb-8001-b106b970c7f8.png)
+
 
 <!--
 **EdgarHdz17/EdgarHdz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
